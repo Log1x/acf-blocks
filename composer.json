@@ -1,0 +1,17 @@
+{
+    "name": "log1x/acf-blocks",
+    "type": "library",
+    "description": "ACF Blocks is a small package for Sage 10 to assist you in easily creating Gutenberg Blocks with Advanced Custom Fields.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brandon",
+            "email": "brandon@tendency.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
