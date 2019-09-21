@@ -2,7 +2,7 @@
 
 ACF Blocks is a small package for Sage 10 to assist you in easily creating Gutenberg Blocks with Advanced Custom Fields.
 
-**Note: This is a work in progress.**
+**ABANDONED: USE [acf-composer](https://github.com/Log1x/acf-composer).**
 
 ## Installation
 
